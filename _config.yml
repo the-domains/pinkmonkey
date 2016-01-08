@@ -1,7 +1,7 @@
 name: pinkmonkey
 favicon: null
-layout_spectrum: 0.624154215445742
-typography_spectrum: 0.09420822351239622
+layout_spectrum: 0.23429
+typography_spectrum: 0.24
 title: Pink Monkey Project
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6324985306710005
-  lightness: 0.5537720662541687
-  saturation: 0.25160229625180364
-  rhythmicContrast: 0.6809231203515083
+    - '#ffffff'
+    - '#fc8f99'
+    - '#fc757e'
+    - '#fcb5ba'
+    - '#fdd9dd'
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
